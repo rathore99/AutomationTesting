@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31723" started-at="2019-09-30T08:37:18Z" finished-at="2019-09-30T08:37:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31723" started-at="2019-09-30T08:37:18Z" finished-at="2019-09-30T08:37:50Z">
+      <class name="com.rahul.LocatorsandSikuli">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.rahul.LocatorsandSikuli@4a87761d]" name="browser" duration-ms="4477" started-at="2019-09-30T08:37:18Z" finished-at="2019-09-30T08:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="useLocators()[pri:0, instance:com.rahul.LocatorsandSikuli@4a87761d]" name="useLocators" duration-ms="27206" started-at="2019-09-30T08:37:22Z" finished-at="2019-09-30T08:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useLocators -->
+      </class> <!-- com.rahul.LocatorsandSikuli -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
